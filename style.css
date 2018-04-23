@@ -1,0 +1,23 @@
+body {
+	background-image: url(backgorund.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: red;
+	text-align: center;
+	border: 3px solid rgba(255, 176, 170, 0.5);
+}
+p {
+	color: blue;
+	text-align: justify;
+	margin: 10px;	
+}
+nav {
+	margin: -10px;
+}
+li {
+	list-style: none;
+	display: inline-block;
+	margin: 5px;
+}
